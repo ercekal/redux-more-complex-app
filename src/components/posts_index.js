@@ -13,7 +13,8 @@ class PostsIndex extends Component {
       <div>
         <div className="text-xs-right">
           <Link to="/posts/new" className="btn btn-primary">
-          Add a post</Link>
+          Add a post
+          </Link>
         </div>
         List of blogs:
       </div>
